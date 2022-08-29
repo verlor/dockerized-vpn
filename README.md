@@ -1,4 +1,4 @@
-# Nginx and Let’s Encrypt with Docker Compose in less than 3 minutes
+# Nginx and Let’s Encrypt with Docker Compose in less than 3 minutes !
 
 - [Overview](#3b878279a04dc47d60932cb294d96259)
 - [Initial setup](#1231369e1218613623e1b520c27ce190)
